@@ -1,9 +1,9 @@
-import Example from '@/components/Example';
+import Login from '@/pages/CSO/Login';
 
 export default function Home() {
   return (
     <main>
-      <Example />
+      <Login />
     </main>
   );
 }
